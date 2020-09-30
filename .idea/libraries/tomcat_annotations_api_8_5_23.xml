@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="tomcat-annotations-api-8.5.23">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-annotations-api-8.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-embed-core-8.5.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-jasper-el-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-embed-jasper-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/mssql-jdbc-8.2.0.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-jsp-api-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-api-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-jasper-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-el-api-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-embed-el-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/ecj-3.12.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-juli-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-servlet-api-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-util-8.5.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Tomcat jar/tomcat-util-scan-8.5.38.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

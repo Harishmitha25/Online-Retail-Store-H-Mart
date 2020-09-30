@@ -1,0 +1,22 @@
+h1{
+    color:black;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+table {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+table  td, table  th {
+    border: 1px solid #ddd;
+    padding: 5px;
+    background-color:	#F0F8FF;
+    color:black ;
+}
+table  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:#ADD8E6;
+    color: black;
+}

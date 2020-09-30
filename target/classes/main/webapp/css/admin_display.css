@@ -1,0 +1,41 @@
+h1{
+    color:black;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+table {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+table  td, table  th {
+    border: 1px solid #ddd;
+    padding: 5px;
+    background-color:	#F0F8FF;
+    color:black ;
+}
+table  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #ADD8E6;
+    color: black;
+}
+.add{
+    float:right;
+    height:30px;
+    margin:10px;
+}
+a:link, a:visited {
+    background-color:#DCDCDC;
+    color: black;
+    padding:3px;
+    cursor: pointer;
+    margin:5px;
+    width: 10%;
+    font-family:  "Comic Sans MS", cursive, sans-serif;
+    border-radius:5px;
+    text-decoration:none;
+}
+a:hover{
+    opacity:0.8;
+}
